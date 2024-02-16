@@ -1,2 +1,2 @@
 a = 3+6
-print(a)
+print("sum is: ",a)
